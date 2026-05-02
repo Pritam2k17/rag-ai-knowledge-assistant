@@ -1,0 +1,12 @@
+rag-ai-knowledge-assistant/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── .env.example
+│
+├── data/
+│   └── sample.txt
+│
+└── utils/
+    └── rag_pipeline.py
